@@ -380,7 +380,7 @@
     height: 250px;
 }
 
-@media screen and (max-width:570px) {
+@media screen and (max-width:760px) {
 
     /* .interestimgsection{
         flex:0;
@@ -646,7 +646,7 @@ body {
     cursor: pointer;
 }
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:750px) {
     .bestspot__title h1 {
         font-size: 30px;
     }
